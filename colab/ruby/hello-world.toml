@@ -1,0 +1,7 @@
+title = "Hello world"
+
+contributors = [
+	"Mateus Cezário Barreto"
+]
+
+tags = [ "ruby", "programming", "introduction" ]
