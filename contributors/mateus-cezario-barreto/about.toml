@@ -1,0 +1,9 @@
+names = ["Mateus Cezário Barreto", "seruna"]
+
+	[[links]]
+	name = "GitHub"
+	adress= "https://github.com/seruna-1"
+
+	[[links]]
+	name = "Youtube"
+	adress= "https://www.youtube.com/@seruna2"
