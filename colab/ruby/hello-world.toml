@@ -1,7 +1,8 @@
 title = "Hello world"
 
 contributors = [
-	"Mateus Cezário Barreto"
+	"Mateus Cezário Barreto",
+ 	"Yuri Delgado"
 ]
 
 tags = [ "ruby", "programming", "introduction" ]
