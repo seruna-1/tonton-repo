@@ -1,0 +1,7 @@
+= Introdução à Estatística
+:doctype: article
+:sectnums:
+
+== Introdução
+
+Esse capítulo começa com a discussão sobre o que é estatística e porque seu estudo importa. As seções subsequentes abordam uma variedade de tópicos básicos do estudo de estatística. O único tema comum para todas essas seções é que elas abrangem conceitos e idéias importantes para outros capítulos do livro.
